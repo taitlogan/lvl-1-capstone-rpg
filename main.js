@@ -189,7 +189,7 @@ const journey = () => {
     combatChance()
 }
 
-journey()
+combatVictory()
 
 
 
