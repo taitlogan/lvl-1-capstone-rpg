@@ -191,6 +191,8 @@ const journey = () => {
 
 combatVictory()
 
+console.log(stats())
+
 
 
 
